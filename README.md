@@ -43,6 +43,15 @@ cd <Folder Name> ...
     ```bash
     ./<filename>.sh
     ```
+1. For awk scripts
+
+    ```bash
+    chmod +x <filename>.awk
+    ```
+
+    ```bash
+    ./<filename>.awk <input_file>
+    ```
 
 1. For C programs
 
